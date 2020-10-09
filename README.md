@@ -5,7 +5,7 @@ https://www.kaggle.com/c/dog-breed-identification
 
 The data was split into 2 folders of train and test and we were given one csv files with names from the test folder.  
 
-The files in the train folder was named as `cat.x` and `dog.x` with a total of 25000 files
+The files in the train folder was named as '`cat.x`' and '`dog.x`' with a total of 25000 files
 *This code was compiled in Kaggle.*  
 
 We first create a dataframe from the train and test directories and label them according to if it was named `cat` or `dog` in file.  
