@@ -1,7 +1,4 @@
-# DogVsCat_Kaggle
-
-This is based on the 'Dog vs Cat' competition from kaggle.  
-https://www.kaggle.com/c/dog-breed-identification
+# DogVsCat_
 
 The data was split into 2 folders of train and test and we were given one csv files with names from the test folder.  
 
